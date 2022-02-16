@@ -1,0 +1,120 @@
+body{
+    font-family: Montserrat;
+}
+
+.col{
+    padding: 1rem;
+    background-color:aqua;
+    border: 2px solid tan;
+    color: aliceblue;
+}
+
+#intro-container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* #intro-row{
+    padding-left: 10%;
+} */
+
+#navbar{
+    background-color: azure;
+}
+
+#greeting{
+    padding-top: 2rem;
+    margin-bottom: 0rem;
+    /* padding-left: 10rem; */
+    margin-left: 0rem;
+    font-size: 1rem;
+}
+
+#name{
+    /* padding-left: 6rem; */
+    font-size: 5em;
+    border-bottom: 5px solid black;
+}
+
+#picture{
+    width: 100%;
+    margin-top: 1.5rem;
+    border: 2px solid rgb(255, 176, 72);
+}
+
+#picture-box{
+    margin-left: 20rem;
+    padding-left: 10rem;
+}
+
+#about{
+    padding-top: 1.5rem;
+}
+
+.box{
+    width: auto;
+    border: 1rem skyblue;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.project-top-margin{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+#projects{
+    width: fit-content;
+    border-bottom: 3px solid black;
+}
+
+#home-card-row{
+    margin-bottom: 2.5rem;
+}
+
+.home-card{
+    width: 25rem;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-top: 1.5rem;
+}
+
+.card-subtitle-margin{
+    margin-top: 0.25rem;
+}
+
+.card-text-top-margin{
+    margin-top: 1rem;
+}
+
+.card-buttons a{
+    width: fit-content;
+    margin:auto;
+}
+
+#home-project-page{
+    margin-bottom: 1rem;
+}
+
+#home-project-page a{
+    color: rgb(0, 0, 0);
+    width: fit-content;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
+}
+
+footer .container-fluid{
+    background-color: antiquewhite;
+}
+
+.footer-icon-img{
+    padding: 1rem;
+    padding-top: 2rem;
+}
+
+.copyright-box{
+    width: auto;
+    margin: 2rem;
+}
